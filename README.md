@@ -29,4 +29,4 @@ I specialize in building **enterprise-grade analytical solutions** that turn raw
 ## 📈 My Philosophy
 I believe data is only as good as the decisions it enables. I build reports that don't just "show numbers," but provide clear pathways to growth and efficiency.
 
-📫 **Let's Connect:** [[https://www.linkedin.com/in/harika-murari/]
+📫 **Let's Connect:** [https://www.linkedin.com/in/harika-murari/]
